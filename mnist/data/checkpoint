@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/nabylbennouri/Documents/COMPANYS/Bright Star/GitHub/tensorflow-mnist/mnist/data/regression.ckpt"
+all_model_checkpoint_paths: "/Users/nabylbennouri/Documents/COMPANYS/Bright Star/GitHub/tensorflow-mnist/mnist/data/regression.ckpt"

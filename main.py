@@ -41,6 +41,7 @@ def mnist():
     input = ((255 - np.array(request.json, dtype=np.uint8)) / 255.0).reshape(1, 784)
     output1 = regression(input)
     output2 = convolutional(input)
+    print(output2)
     return jsonify(results=[output1, output2])
 
 
